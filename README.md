@@ -30,7 +30,7 @@ Required libraries:
 
 ### Running the Code
 
-**Open the Notebook in Google Colab**
+  **Open the Notebook in Google Colab**
 
     You can open the notebook directly in Google Colab by clicking on the link below:
     [Open in Google Colab](https://colab.research.google.com/drive/1mxy5mqXwFHhMKrsIrd5_qRMb_1b8wFYx)

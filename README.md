@@ -1,6 +1,7 @@
 # Helmet Safety Detection
 
 Fine-tuning pre-trained YOLOv10 model by using pre-prepared dataset. The dataset contains of images of construction or factory workers with coordinate of bounding boxes of their helmet.
+
 Main goal is to have a specialized model that can check if workers wear a helmet or not.
 
 

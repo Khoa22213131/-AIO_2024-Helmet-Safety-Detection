@@ -32,7 +32,7 @@ Required libraries:
 
 0. **Open the Notebook in Google Colab**
   
-    You can open the notebook directly in Google Colab by clicking on the link:  [Google Colab](https://colab.research.google.com/drive/1mxy5mqXwFHhMKrsIrd5_qRMb_1b8wFYx)
+    You can open the notebook directly in Google Colab by clicking on the [link](https://colab.research.google.com/drive/1mxy5mqXwFHhMKrsIrd5_qRMb_1b8wFYx)
 
 
 1. **Clone the Repository**
